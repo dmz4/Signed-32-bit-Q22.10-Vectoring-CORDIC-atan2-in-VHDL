@@ -35,5 +35,5 @@ The iterative vectoring method rotates the input vector toward the x-axis, effic
 ## 🖥 Simulation Waveform
 Example simulation showing the atan2 calculation and output timing.
 
-![Simulation waveform](img/cordic_atan2_simwave.png)
+![Simulation waveform](img/cordicv_simwave.png)
 
